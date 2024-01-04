@@ -15,3 +15,6 @@ This project was carried out to check the food chain sales across different citi
 This is the same profile
 
 ![office_sales_Dashboard.PNG](office_sales_Dashboard.PNG)
+
+
+[Project 3: 
