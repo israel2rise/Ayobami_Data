@@ -14,7 +14,13 @@ This project was carried out to check the food chain sales across different citi
 
 This is the same profile
 
-![office_sales_Dashboard.PNG](office_sales_Dashboard.PNG)
+![office_sales_Dashboard](office_sales_Dashboard.PNG)
 
 
-[Project 3: 
+[Project 3: Hattrition_Dashboard](https://github.com/israel2rise/Ayobami_Data)
+
+**Project Summary**
+
+This is the profile
+
+![Hattrition_Dashboard](Hattrition_Dashboard.PNG)
