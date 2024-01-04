@@ -33,3 +33,11 @@ This is the profile
 This project summary
 
 ![ANALYTICS_DASHBOARD](ANALYTICS_DASHBOARD.PNG)
+
+[Project 5: Coca-Cola](https://github.com/israel2rise/Ayobami_Data)
+
+**Project Summary**
+
+Summary of the project
+
+![Coca-Cola](Coca-Cola.PNG)
