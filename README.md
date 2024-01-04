@@ -8,4 +8,10 @@ This project was carried out to check the food chain sales across different citi
 ![Food_Chain_Dashboard](Food_Chain_Dashboard.PNG)
 
 
-[Project 2: 
+[Project 2: office_sales_Dashboard](https://github.com/israel2rise/Ayobami_Data)
+
+**Project Summary**
+
+This is the same profile
+
+![
