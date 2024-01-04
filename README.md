@@ -24,3 +24,12 @@ This is the same profile
 This is the profile
 
 ![Hattrition_Dashboard](Hattrition_Dashboard.PNG)
+
+
+[Project 4: HR ANALYTICS_DASHBOARD](https://github.com/israel2rise/Ayobami_Data)
+
+**Project Summary**
+
+This project summary
+
+![HR ANALYTICS_DASHBOARD](HR ANALYTICS_DASHBOARD)
