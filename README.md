@@ -21,7 +21,27 @@ The Food Chain Sales Dashboard is designed to provide a comprehensive analysis o
 
 **Project Summary**
 
-This is the profile
+
+An HR attrition dashboard is a visual representation of key metrics related to employee turnover within an organization. The dashboard includes various components to provide a comprehensive view of attrition trends.
+Here's a summary of the main elements:
+
+Attrition Employee Count:
+
+Displays the total number of employees who have left the organization during a specific time period.
+Active Employee Count:
+
+Shows the total number of employees currently working in the organization.
+Attrition Rate by Gender:
+
+Breaks down the attrition rate based on gender, providing insights into whether there are gender-specific trends in employee turnover.
+Attrition Rate by Education:
+
+Analyzes the attrition rate based on employees' educational qualifications, helping identify any correlation between education levels and turnover.
+Attrition Rate by Age Bin Size:
+
+Categorizes employees into age groups (bins) and calculates the attrition rate for each group. This helps identify if certain age demographics are more prone to leaving the organization.
+
+By visualizing these metrics on a dashboard, HR professionals and organizational leaders can quickly grasp the overall attrition trends, identify patterns, and make informed decisions to address retention challenges. The dashboard serves as a valuable tool for strategic workforce planning and implementing targeted interventions to reduce attrition.
 
 ![Hattrition_Dashboard](Hattrition_Dashboard.PNG)
 
