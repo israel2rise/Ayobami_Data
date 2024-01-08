@@ -50,7 +50,12 @@ By visualizing these metrics on a dashboard, HR professionals and organizational
 
 **Project Summary**
 
-Summary of the project
+
+The Coca-Cola Sales Dashboard provides a comprehensive overview of key performance metrics for various beverage brands, including Fanta, Powerade, Sprite, Diet Coke, and Dasani water. The dashboard features a table that displays critical information such as total sales, average price per unit, operating profit, and operating margin for each brand. This allows stakeholders to quickly assess the performance of individual products and make informed business decisions.
+
+Additionally, the dashboard incorporates a user-friendly map that visually represents the sum of sales across different USA states. This geographical breakdown enables users to identify regional trends, target areas for improvement, and optimize marketing strategies based on location-specific data.
+
+To enhance user interaction and facilitate inquiries, search tools have been seamlessly integrated into the dashboard. Clients can easily access specific information or ask questions about sales performance, pricing, or any other relevant metrics. This interactive feature promotes real-time engagement and empowers users to extract valuable insights tailored to their specific needs. Overall, the Coca-Cola Sales Dashboard provides a dynamic and intuitive platform for monitoring and analyzing key business metrics in the beverage industry.
 
 ![Coca-Cola](Coca-Cola.PNG)
 
