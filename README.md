@@ -63,7 +63,25 @@ To enhance user interaction and facilitate inquiries, search tools have been sea
 
 **Project Summary**
 
-This is the same profile
+The office sales dashboard provides a comprehensive analysis of sales performance, focusing on key metrics categorized by region, cost, and items. The primary components of the dashboard include:
+
+Region-wise Cost Analysis:
+
+The dashboard features a visual representation of sales costs across different regions (Central, East, West) of the USA.
+Users can quickly assess and compare the cost distribution in each region, gaining insights into regional spending patterns.
+Items by Sum of Units:
+
+A detailed breakdown of sales units for specific items, including blinder, desk, pen, pen set, and pencil.
+Users can easily identify the highest-selling items based on the sum of units sold, facilitating inventory management and strategic decision-making.
+Region-wise Items Analysis:
+
+This section provides a comparative analysis of item sales across the Central, East, and West regions.
+Users can explore regional preferences and tailor marketing or stocking strategies based on the popularity of specific items in each region.
+Interactive Slicer:
+
+The dashboard includes an interactive slicer tool that allows users to dynamically filter data based on selected items (blinder, desk, pen, pen set, pencil) or regions (Central, East, West).
+This feature enhances user flexibility, enabling them to focus on specific aspects of the sales data and derive more targeted insights.
+Overall, the office sales dashboard serves as a powerful tool for sales professionals and decision-makers to assess and optimize sales strategies, identify trends, and make informed decisions based on a granular understanding of regional and item-specific performance.
 
 ![office_sales_Dashboard](office_sales_Dashboard.PNG)
 
