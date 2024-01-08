@@ -4,7 +4,7 @@
 
 **Project Summary**
 
-This project summary
+The HR Dashboard Power BI project aims to provide a comprehensive view of the organization's workforce, focusing on key demographic indicators and promotion eligibility. The dashboard is designed to enable stakeholders to make informed decisions related to workforce management, gender diversity, and employee career progression.
 
 ![ANALYTICS_DASHBOARD](ANALYTICS_DASHBOARD.PNG)
 
