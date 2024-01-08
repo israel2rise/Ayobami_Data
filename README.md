@@ -12,7 +12,7 @@ The HR Dashboard Power BI project aims to provide a comprehensive view of the or
 
 **Project summary**
 
-The Food Chain Dashboard Power BI project is designed to provide a comprehensive analysis of sales data across various dimensions, with a focus on product unit prices, product categories, and total prices. The project utilizes different methods to dissect and visualize sales information, enabling stakeholders to gain insights into product performance and regional variations within the East and West regions of key cities - Boston, Los Angeles, New York, and San Diego.
+The Food Chain Sales Dashboard is designed to provide a comprehensive analysis of sales data across various dimensions, with a focus on product unit prices, product categories, and total prices. The project utilizes different methods to dissect and visualize sales information, enabling stakeholders to gain insights into product performance and regional variations within the East and West regions of key cities - Boston, Los Angeles, New York, and San Diego.
 
 ![Food_Chain_Dashboard](Food_Chain_Dashboard.PNG)
 
