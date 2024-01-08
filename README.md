@@ -24,21 +24,7 @@ Tenure-Based Analysis:
 The project incorporates a detailed analysis of employees with over 10 years of employment. This includes:
 The number of employees with 10 or more years of service.
 Specific insights into this long-tenured group's demographics and promotion eligibility.
-Visualizations:
 
-Doughnut Charts:
-
-Doughnut charts visually represent the gender distribution and promotion eligibility, offering an instant snapshot of workforce diversity and career advancement opportunities.
-Bar Charts:
-
-Bar charts showcase the total employee count and the number of employees with over 10 years of service, facilitating a quick comparison and identification of trends.
-Tables:
-
-Tabular displays provide detailed lists of employees due for promotion and those not currently eligible, with additional information on each employee's tenure.
-Interactive Features:
-
-Users can interact with the dashboard to filter data based on departments, teams, or other relevant parameters.
-Drill-down capabilities allow stakeholders to explore specific details about individual employees and their promotion status.
 Conclusion:
 The HR Dashboard Power BI project delivers a powerful tool for HR professionals and organizational leaders to monitor and strategize workforce management effectively. By presenting a visually compelling and interactive overview of employee demographics, promotion eligibility, and long-term employment trends, the dashboard empowers stakeholders with the insights needed to make informed decisions that contribute to a balanced, diverse, and thriving workforce.
 
